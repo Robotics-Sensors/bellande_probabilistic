@@ -5,10 +5,10 @@ We're excited that you're interested in contributing to the Bellande Robotics Se
 To contribute to the Bellande Robotics Sensors Research Innovations Center organization, please visit our [Contributing Repository](https://github.com/Robotics-Sensors/bellande_robotics_sensors_research_innovations_center_contributor)
 
 ## Table of Contents
-1. [Contributing to the Organization](#contributing-to-the-organization)
-   - [Creating a Repository](#creating-a-repository)
-   - [Team Requests](#team-requests)
-   - [Security](#security)
+1. [Contributing to the Organization](https://github.com/Robotics-Sensors/bellande_robotics_sensors_research_innovations_center_contributor)
+   - [Creating a Repository](https://github.com/Robotics-Sensors/bellande_robotics_sensors_research_innovations_center_contributor)
+   - [Team Requests](https://github.com/Robotics-Sensors/bellande_robotics_sensors_research_innovations_center_contributor)
+   - [Security](https://github.com/Robotics-Sensors/bellande_robotics_sensors_research_innovations_center_contributor)
 2. [Contributing to Repositories](#contributing-to-repositories)
    - [New Features](#new-features)
    - [Bug Fixes](#bug-fixes)
